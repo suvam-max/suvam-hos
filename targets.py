@@ -1,0 +1,93 @@
+TARGET_INSTITUTIONS = {
+    "Mumbai": [
+        "Nanavati Max Super Speciality Hospital",
+        "P.D. Hinduja National Hospital",
+        "S.L. Raheja Hospital",
+        "Lilavati Hospital and Research Centre",
+        "Kokilaben Dhirubhai Ambani Hospital",
+        "Sir H.N. Reliance Foundation Hospital",
+        "Breach Candy Hospital",
+        "Bombay Hospital",
+        "Fortis Hospital Mulund",
+        "Wockhardt Hospital Mira Road",
+        "Qi Spine Clinic Worli",
+        "Muscle & Mind Clinic Bandra",
+        "My Pain Clinic Global Bandra",
+        "Germanten Ortho Clinic Worli"
+    ],
+    "Ahmedabad": [
+        "Apollo Hospital International",
+        "Zydus Hospital",
+        "Shalby Hospital",
+        "Sterling Hospital",
+        "Marengo CIMS Hospital",
+        "SAL Hospital",
+        "Mission Health Ahmedabad",
+        "WalkAgain Rehab Ahmedabad"
+    ],
+    "Gurgaon": [
+        "Medanta - The Medicity",
+        "Fortis Memorial Research Institute (FMRI)",
+        "Max Hospital Gurgaon",
+        "Artemis Hospital",
+        "CK Birla Hospital Gurgaon",
+        "Marengo Asia Hospital Gurgaon",
+        "Paras Health Gurgaon",
+        "AktivHealth DLF Phase 1",
+        "Dr. Rana Chengappa Physiotherapy Clinic",
+        "Orthocure DLF Phase 5",
+        "Prognosia Healthcare Gurgaon",
+        "Kinetiq Physiotherapy Gurgaon"
+    ],
+    "Bangalore": [
+        "Manipal Hospital Old Airport Road",
+        "Aster CMI Hospital Hebbal",
+        "Fortis Hospital Bannerghatta Road",
+        "Sparsh Hospital Yeshwanthpur",
+        "Sakra World Hospital",
+        "Apollo Hospitals Jayanagar",
+        "HOSMAT Hospital",
+        "Manipal Hospital Jayanagar",
+        "St. John's Medical College Hospital",
+        "Aster Whitefield Hospital",
+        "Apollo Spectra Koramangala",
+        "Qi Spine Clinic Indiranagar",
+        "Rejoice Physiotherapy & Rehabilitation Center"
+    ],
+    "Delhi": [
+        "Indraprastha Apollo Hospitals",
+        "Max Super Speciality Hospital Saket",
+        "BLK-Max Super Speciality Hospital",
+        "Sir Ganga Ram Hospital",
+        "Fortis Flt. Lt. Rajan Dhall Hospital Vasant Kunj",
+        "Manipal Hospital Dwarka",
+        "Moolchand Medcity",
+        "AktivHealth Vasant Vihar",
+        "Max Super Speciality Hospital Patparganj",
+        "Capri Spine Clinic Greater Kailash",
+        "PhysioNautics Greater Kailash",
+        "Apollo Clinic East Of Kailash"
+    ],
+    "Chennai": [
+        "Apollo Hospitals Greams Road",
+        "MIOT International",
+        "Fortis Malar Hospital",
+        "Gleneagles Global Health City",
+        "MGM Healthcare",
+        "Kauvery Hospital",
+        "SIMS Hospital Vadapalani",
+        "Shri Bone & Joint Clinic Adyar",
+        "Saga Physio Chennai",
+        "Thigazh Physio Care Chennai"
+    ],
+    "Coimbatore": [
+        "Royal Care Super Speciality Hospital",
+        "Kovai Medical Center and Hospital (KMCH)",
+        "G. Kuppuswamy Naidu Memorial Hospital (GKNM)",
+        "PSG Hospitals",
+        "Sri Ramakrishna Hospital",
+        "Ganga Hospital",
+        "KG Hospital",
+        "Royal Care Neurosciences Coimbatore"
+    ]
+}

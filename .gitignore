@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+log_hits.txt
+poc_contacts.csv
+test_poc_contacts.csv
